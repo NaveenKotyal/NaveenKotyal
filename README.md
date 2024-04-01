@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naveen Kotyal</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/NaveenKotyal/NaveenKotyal/assets/142721786/b7da0802-6240-469f-b831-aa798a0fbfe1)
-">
+<img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkotyal&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkotyal" /> </p>
 
