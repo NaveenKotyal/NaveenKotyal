@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkotyal&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkotyal" /> </p>
 
-- 👨‍💻 To Know More About Me, My Portfolio [https://sites.google.com/view/naveenkotyal/home]([https://sites.google.com/view/naveenkotyal/home])
+- 👨‍💻 To Know More About Me, My Portfolio [https://sites.google.com/view/naveenkotyal/home](https://sites.google.com/view/naveenkotyal/home)
 
 - 📫 How to reach me **naveenkotyal6@gmail.com**
 
